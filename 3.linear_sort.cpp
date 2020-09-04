@@ -3,8 +3,7 @@
  *  Linear sort is an algorithm that sorts in place.
  *  -------------------------------------------------------
  *
- *  Input: A sequence of numbers A=(a₁, a₂,..,aₙ) where
- *  each element is unique
+ *  Input: A sequence of numbers A=(a₁, a₂,..,aₙ)
  *
  *  Output: A permutation A'=(a'₁,a'₂,...,a'ₙ) of the input
  *  sequence such that ----------------> a'₁≤a'₂≤...≤a'ₙ
