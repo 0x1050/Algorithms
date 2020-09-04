@@ -1,6 +1,6 @@
 /* Linear Sort
  * --------------------------------------------------------
- *  Insertion sort is an algorithm that sorts in place.
+ *  Linear sort is an algorithm that sorts in place.
  *  -------------------------------------------------------
  *
  *  Input: A sequence of numbers A=(a₁, a₂,..,aₙ) where
